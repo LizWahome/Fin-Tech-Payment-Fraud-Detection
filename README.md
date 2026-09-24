@@ -188,3 +188,16 @@ DAX Measures
 Interactive Dashboard
      ↓
 Insights & Interpretation
+
+
+## Dashboard Preview
+
+![Fraud Overview](screenshots/Fraud Detection Overview.PNG)
+
+### Fraud Patterns & Transaction Behavior
+
+![Fraud Patterns](screenshots/Fraud Patterns & Transaction Behaviour.PNG)
+
+### Fraud Detection Performance
+
+![Detection Performance](screenshots/Fraud Detection Performance.PNG)
